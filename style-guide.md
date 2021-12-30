@@ -37,26 +37,3 @@ The designs were created to the following widths:
 
 font-family: 'Inter', sans-serif; -------->
 font-family: 'Lexend Deca', sans-serif; -------->
-
-  Get insights that help your business grow.
-
-  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-  experience, and overall efficiency.
-
-  10k+ companies
-  314 templates
-  12m+ queries
-
-    <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-
-    <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-
-
-  
-  <title>Frontend Mentor | Stats preview card component</title>
