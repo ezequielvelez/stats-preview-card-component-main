@@ -264,7 +264,7 @@ img {
     
     .card {
         display: grid;
-        grid-template-columns: 1fr 576px;
+        grid-template-columns: 50% 50%;
         grid-template-rows: repeat(3, 33.33%);
         max-width: 1152px;
         min-width: 1017px;
@@ -277,15 +277,6 @@ img {
         height: 475.73px;;
     }
     
-    .image-container::after,
-    .image-container::before {
-        content: " ";
-        position: absolute;
-        background-color: hsl(277, 64%, 36%, 0.5);
-        top: 0;
-        width: 100%;
-        height: 100%;
-    }
 
     img {
         min-width: 576px;
@@ -323,7 +314,7 @@ img {
     .card-footer__stats {            
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        justify-content: center;
+        justify-content: start;
         align-content: center;
         width: 100%;
         height: 100%;
